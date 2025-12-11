@@ -5,13 +5,13 @@ A dynamic **Inventory Management System** built using **Vanilla JavaScript**. Th
 
 ##  Features
 
-* ** Create Products:** Add new items with automated total price calculation based on (Price, Taxes, Ads, and Discount).
-* ** Auto Calculation:** The system automatically validates inputs and changes the total color (Red/Green) based on data availability.
-* ** Read Data:** Displays all inventory in a clean, responsive table.
-* ** Update Mode:** Smoothly retrieve data back to inputs for editing without refreshing the page.
-* ** Delete:** Options to delete a single item or **Delete All** items at once with one click.
-* ** Advanced Search:** Real-time search functionality by **Title** or **Category**.
-* ** Data Persistence:** Uses **Local Storage** to keep data saved even after closing the browser.
+* **Create Products:** Add new items with automated total price calculation based on (Price, Taxes, Ads, and Discount).
+* **Auto Calculation:** The system automatically validates inputs and changes the total color (Red/Green) based on data availability.
+* **Read Data:** Displays all inventory in a clean, responsive table.
+* **Update Mode:** Smoothly retrieve data back to inputs for editing without refreshing the page.
+* **Delete:** Options to delete a single item or **Delete All** items at once with one click.
+* **Advanced Search:** Real-time search functionality by **Title** or **Category**.
+* **Data Persistence:** Uses **Local Storage** to keep data saved even after closing the browser.
 
 ## Technologies Used
 
