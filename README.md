@@ -27,10 +27,6 @@ A dynamic **Inventory Management System** built using **Vanilla JavaScript**. Th
 4.  Use the **Search** bar to filter products by Title or Category.
 5.  Click **Update** to edit a product or **Delete** to remove it.
 
-## 📸 Screenshots
-
-![Project Screenshot](Screenshot.png)
-
 ##  Live Demo
 You can try the application live here: [**Click Here to View App**](https://your-username.github.io/repository-name)
 
