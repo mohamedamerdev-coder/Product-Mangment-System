@@ -29,13 +29,12 @@ A dynamic **Inventory Management System** built using **Vanilla JavaScript**. Th
 
 ## 📸 Screenshots
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](Screenshot.png)
 
 ##  Live Demo
 You can try the application live here: [**Click Here to View App**](https://your-username.github.io/repository-name)
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Mohamed Amer**
-*Full-Stack Developer & Data Engineer*
