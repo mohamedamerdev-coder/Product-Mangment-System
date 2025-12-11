@@ -28,7 +28,7 @@ A dynamic **Inventory Management System** built using **Vanilla JavaScript**. Th
 5.  Click **Update** to edit a product or **Delete** to remove it.
 
 ##  Live Demo
-You can try the application live here: [**Click Here to View App**](https://your-username.github.io/repository-name)
+You can try the application live here: [**Click Here to View App**] https://mohamedamerdev-coder.github.io/Product-Mangment-System/)
 
 ---
 
